@@ -43,7 +43,7 @@ def clean_commits(commits):
     cleaned_commit = []
     for commit in commits:
         if is_human(commit) and is_important(commit):
-            if len(commit) > 70:
+            if len(commit) > 140:
                 commit = shorten_long_commit(commit)
             cleaned_commit.append(commit)
     return cleaned_commit

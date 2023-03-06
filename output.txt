@@ -1,17 +1,13 @@
 ## Added
 
-- We have added a new feature that allows users to customize their settings.
-
-## Changed
-
-- This is a large commit that includes several changes to the system.
+- Added a new feature that allows users to customize their settings.
 
 ## Fixed
 
-- In this commit, we have fixed a bug that was causing the system to crash under certain circumstances.
-- This commit includes several bug fixes and minor improvements.
+- Fixed a bug that was causing the system to crash under certain circumstances.
+- Bug fixes and minor improvements.
 
 ## Security
 
-- We have made changes to the authentication system to improve security.
+- These changes should improve the overall security of the system and protect user data from potential threats.
 
